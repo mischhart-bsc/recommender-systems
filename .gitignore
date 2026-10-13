@@ -1,0 +1,7 @@
+# OS files
+.DS_Store
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
